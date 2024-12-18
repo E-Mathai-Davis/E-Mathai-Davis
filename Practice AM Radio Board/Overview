@@ -5,5 +5,4 @@ Description:
  - Analog AM superheterodyne reciever designed as general use AM radio
  - Still in revision
 
-My goal for this board was to familiarize myself with more Electrical Engineering mathematics through the use of a project. I tuned the values of the various passives on the board by calculating their impedance values and adjusting them to match the AM frequencies.
-DISCLAIMER: I am still in the process of obtaining a HAM radio license, so this is a concept design, not a finalized design.
+My goal for this board was to familiarize myself with more Analog Signal Processing techniques. I wanted to familiarize myself with RLC filters, as well as active filters. The files in this repository are entirely EDA files and drawings.
